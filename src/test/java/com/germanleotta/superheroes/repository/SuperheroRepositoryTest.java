@@ -19,7 +19,7 @@ public class SuperheroRepositoryTest {
 	
 	@Test
 	public void findAllTest() {
-		assertEquals(superheroRepository.findAll().size(), 3);
+		assertEquals(superheroRepository.findAll().size(), 5);
 	
 	}
 

@@ -4,5 +4,3 @@ insert into SUPERHEROES  values
 	(3,'Wonder Woman', 'Diana', 'Prince'),
 	(4,'Batwoman', 'Kat', 'Kane'),
 	(5,'Spiderman', 'Peter', 'Parker');
-
-

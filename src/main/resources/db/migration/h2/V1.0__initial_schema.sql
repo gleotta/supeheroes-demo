@@ -5,5 +5,4 @@ create table superheroes (
        name varchar(15),
        first_name varchar(25),
        last_name varchar(25),
-       primary key (id)
-    );
+       primary key (id) )
